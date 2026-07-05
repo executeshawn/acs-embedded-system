@@ -12,7 +12,7 @@ using FirebaseAdmin.Auth;
 using Google.Apis.Auth.OAuth2;
 
 
-namespace ACS
+namespace acs
 {
     public partial class RegisterAccount : Form
     {

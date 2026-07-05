@@ -1,4 +1,4 @@
-﻿namespace ACS
+﻿namespace acs
 {
     partial class ForgotPassword
     {

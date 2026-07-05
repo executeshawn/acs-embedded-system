@@ -4,7 +4,7 @@ using FireSharp.Response;
 using System;
 using System.Windows.Forms;
 
-namespace ACS
+namespace acs
 {
     public partial class AdminLogin : Form
     {

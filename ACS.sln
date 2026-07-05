@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACS", "ACS\ACS.csproj", "{01DD1771-0376-49C1-A54D-A6C9C9273D86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acs", "acs\acs.csproj", "{01DD1771-0376-49C1-A54D-A6C9C9273D86}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BC27DF14-30A5-4690-8D94-39E7950BC721}"
 	ProjectSection(SolutionItems) = preProject
-		ACS\acs-automated-door-lock-system-firebase-adminsdk-bz43s-fb88f9cfca.json = ACS\acs-automated-door-lock-system-firebase-adminsdk-bz43s-fb88f9cfca.json
+		acs\acs-automated-door-lock-system-firebase-adminsdk-bz43s-fb88f9cfca.json = acs\acs-automated-door-lock-system-firebase-adminsdk-bz43s-fb88f9cfca.json
 	EndProjectSection
 EndProject
 Global

@@ -6,7 +6,7 @@ using System;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
 
-namespace ACS
+namespace acs
 {
     public partial class LoginAccount : Form
     {

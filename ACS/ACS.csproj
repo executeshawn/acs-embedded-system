@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{01DD1771-0376-49C1-A54D-A6C9C9273D86}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ACS</RootNamespace>
-    <AssemblyName>ACS</AssemblyName>
+    <RootNamespace>acs</RootNamespace>
+    <AssemblyName>acs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
